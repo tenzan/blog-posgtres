@@ -58,7 +58,6 @@ group :test do
   gem "poltergeist"
   gem "shoulda-context"
   gem "shoulda-matchers", ">= 3.0.1"
-  gem "test_after_commit"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
